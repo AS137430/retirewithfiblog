@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Retire with FI</title>
+        <link>https://github.com/AS137430</link>
+        <description>FIRE Blog using Mediumish theme on VuePress</description>
+        <lastBuildDate>Mon, 01 Jun 2020 09:18:20 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://github.com/AS137430/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cooking Stories]]></title>
+            <link>https://github.com/AS137430/2020/05/27/cooking-stories/</link>
+            <guid>https://github.com/AS137430/2020/05/27/cooking-stories/</guid>
+            <pubDate>Tue, 26 May 2020 16:00:00 GMT</pubDate>
+            <description><![CDATA[The beginning of my baking journey.]]></description>
+            <enclosure url="https://retirewithfi.com/assets/img/dalgona.jpg">
+            </enclosure>
+        </item>
+    </channel>
+</rss>

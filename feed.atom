@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/AS137430</id>
+    <title>Retire with FI</title>
+    <updated>2020-06-01T09:18:20.881Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://github.com/AS137430"/>
+    <link rel="self" href="https://github.com/AS137430/feed.atom"/>
+    <subtitle>FIRE Blog using Mediumish theme on VuePress</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Cooking Stories]]></title>
+        <id>https://github.com/AS137430/2020/05/27/cooking-stories/</id>
+        <link href="https://github.com/AS137430/2020/05/27/cooking-stories/">
+        </link>
+        <updated>2020-05-26T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The beginning of my baking journey.]]></summary>
+    </entry>
+</feed>
